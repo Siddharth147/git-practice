@@ -1,4 +1,4 @@
-hello first practice
+hello
  <script src="login.js" type="text/javascript"></script>
  <link  rel="stylesheet" type="text/css" href="common.css"></link>
  
